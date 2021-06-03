@@ -8,3 +8,7 @@ If you need to print something to test what a variable says, or just to make a l
 Debug.Log("Hello, World!");
 ```
 When you run the script, you should see text saying `Hello, World!`. Since it is a string, you can put variables into the statment to see what it prints! 
+
+You can also put variables in the string as you would in C#(with $ string or +).
+
+It allows you to see what the variable may be a certain times, and why something you want to happen doesn't!
